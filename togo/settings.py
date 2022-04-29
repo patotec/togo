@@ -29,10 +29,10 @@ DEBUG = True
 ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
 
 EMAIL_HOST = 'mail.privateemail.com'
-EMAIL_HOST_USER = 'support@safexcrypt.com'
-EMAIL_HOST_PASSWORD = 'bdbestone'
-DEFAULT_FROM_EMAIL = 'support@safexcrypt.com'
-SERVER_EMAIL = 'ssupport@safexcrypt.com'
+EMAIL_HOST_USER = 'info@cryptonemex.com'
+EMAIL_HOST_PASSWORD = 'aaasssaaa'
+DEFAULT_FROM_EMAIL = 'info@cryptonemex.com'
+SERVER_EMAIL = 'info@cryptonemex.com'
 EMAIL_PORT = 465
 EMAIL_USE_SSL = True
 
