@@ -26,7 +26,7 @@ SECRET_KEY = '#xs@h2l61(82$sx*!+0g3%xgj@p3br&&uk9bms%el&3vld=vic'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 EMAIL_HOST = 'mail.privateemail.com'
 EMAIL_HOST_USER = 'support@clitextreasuryalliance.com'
